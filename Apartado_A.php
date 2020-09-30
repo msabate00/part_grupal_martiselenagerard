@@ -1,7 +1,9 @@
 <?php
 
 
-
+function gmm_favfood (){
+    echo "Sushi";
+}
 
 
 function SCM_MiEdad(){
