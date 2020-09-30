@@ -9,4 +9,9 @@ function gmm_favfood (){
 function SCM_MiEdad(){
     echo "Tengo 20 años";
 }
+
+function MSM_Nombre(){
+    echo "Me llamo Marti Sabate";
+    
+}
 ?>
