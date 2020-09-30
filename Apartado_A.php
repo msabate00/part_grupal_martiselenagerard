@@ -12,6 +12,7 @@ function SCM_MiEdad(){
 
 function MSM_Nombre(){
     echo "Me llamo Selena Catena";
+    echo "Me llamo Marti Sabaté Miranda";
     
 }
 ?>
